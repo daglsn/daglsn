@@ -1,0 +1,21 @@
+# IDE
+.idea/
+.vscode/
+
+# Virtual Environment
+.venv/
+venv/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+
+*.tmp
+External Libraries/
+Scratches and Consoles/
